@@ -1,0 +1,103 @@
+* прибрати відступи елементів списку */ ul {
+  /* padding-left: 0; */
+}
+
+/* прибрати традиційний маркер на початку списку */
+/* Крок 3 нижче тут */
+/* li {
+  list-style-type: none;
+  background-color: #eee;
+  border: 1px solid #c3c3c3;
+  padding: 10px 0px 10px 5px;
+  font-size: 20px;
+} */
+
+/* Крок 5 нижче тут */
+/* .done {
+  background-color: #238c34;
+} */
+/* .remove {
+  background-color: #f1130c;
+} */
+
+/* позначити завдання як виконане */
+/* Крок 6 нижче тут */
+/* li.finished {
+  color: #fff;
+  background-color: #605e5e;
+  text-decoration: line-through;
+} */
+
+/* input[type='text'] {
+  font-size: 18px;
+  width: 94%;
+  padding: 10px;
+}
+
+input[type='button'] {
+  font-size: 1.2em;
+  margin: -6px 4px 0px 0px;
+}
+
+#addButton {
+  padding: 10px;
+} */
+
+/* Крок 10 нижче тут */
+/* .divabout {
+  background-color: #f1e90c;
+  width: 300px;
+  margin-bottom: 30px;
+  font-size: 20px;
+} */
+
+/* Крок 12 нижче тут */
+
+/* ============================================================== */
+
+/* .orange {
+  background-color: #f1990c;
+}
+.blue {
+  background-color: #3c5f80;
+}
+.red {
+  background-color: #f1130c;
+}
+.green {
+  background-color: #238c34;
+}
+.pink {
+  background-color: #f10ca5;
+} */
+.canvasWidth {
+  /* width: 200px;
+  height: 40px; */
+  /* 
+  font-size: 18px;
+
+  padding: 10px; */
+}
+body {
+  font-family: Verdana;
+  margin: 40px;
+}
+h1 {
+  margin: 0 auto;
+  color: #1309e0;
+}
+.container {
+  width: 1200px;
+  height: 800px;
+  padding: 20px;
+  background-color: #bbdef1;
+  margin: 0 auto;
+}
+canvas {
+  border: 1px solid #c3c3c3;
+  height: 200px;
+}
+
+input {
+  font-size: 12pt;
+}
